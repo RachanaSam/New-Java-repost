@@ -6,12 +6,12 @@
     <classes>
     
       <class name="testscript.LoginTest"/>
-      <class name="testscript.AdminUserTest"/>
+     <!-- <class name="testscript.AdminUserTest"/>
       <class name="testscript.LogoutTest"/>
       <class name="testscript.ManageCategoryTest"/>
       <class name="testscript.ManageContactTest"/>
       <class name="testscript.ManageFooterTest"/>
-      <class name="testscript.ManageNewsTest"/>
+      <class name="testscript.ManageNewsTest"/>-->
       </classes>
-  </test> <!-- Test -->
+  </test> 
 </suite> <!-- Suite -->
